@@ -6,3 +6,5 @@ viviendo en todo el mundo
 Hoy hablaremos de su vida y obra maestra.
 
 Nueva conexión desde otro PC
+
+Ahora tenemos una vinculación desde VSCode.
