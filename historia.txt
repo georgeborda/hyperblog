@@ -8,3 +8,5 @@ Hoy hablaremos de su vida y obra maestra.
 Nueva conexión desde otro PC
 
 Ahora tenemos una vinculación desde VSCode.
+
+Creemos una rama desde VSCode
